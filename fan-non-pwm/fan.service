@@ -1,0 +1,9 @@
+[Unit]
+Description=Fan on/off manager
+After=multi-user.target
+[Service]
+Type=simple
+Restart=always
+ExecStart=/usr/bin/python3 /home/pi/Documents/fan.py
+[Install]
+WantedBy=multi-user.target
