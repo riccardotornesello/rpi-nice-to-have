@@ -2,7 +2,7 @@
 
 This repository contains a collection of useful scripts for managing your Raspberry Pi.
 
-Anyone is free to contribute by creating pull requests to add new utilities.
+Periodically I will add all the utilities that I use but anyone is free to contribute by creating pull requests to add new utilities.
 
 ## Scripts
 
